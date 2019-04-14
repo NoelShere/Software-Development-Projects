@@ -1,6 +1,0 @@
-﻿  Utilities.cpp
-  Source.cpp
-  ItemSet.cpp
-  AssemblyLine.cpp
-  Generating Code...
-c:\users\noel\documents\visual studio 2015\projects\oopm1\oopm1\utilities.cpp(41): error C4716: 'sict::Utilities::extractToken': must return a value
